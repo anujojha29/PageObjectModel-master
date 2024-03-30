@@ -47,7 +47,7 @@ public class HomePageTest extends TestBase {
 	public void createContactsLinkTest() throws InterruptedException {
 		homePage.clickOnContactsLink();
 		homePage.clickOnNewContactLink();
-		Thread.sleep(1000);
+		Thread.sleep(4000);
 	}
 	
 	
